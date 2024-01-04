@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Muhammad Waqas, Ph.D</title>
+    <link>https://mewixz.github.io/waqas_portfolio/publications/</link>
+    <description>Recent content in Projects on Muhammad Waqas, Ph.D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://mewixz.github.io/waqas_portfolio/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jet classification</title>
+      <link>https://mewixz.github.io/waqas_portfolio/publications/project-jet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mewixz.github.io/waqas_portfolio/publications/project-jet/</guid>
+      <description>This project Apply deep neural networks common in computer vision applications to distinguish different sources of jets using “jet images”
+Physics with jets essential for the success of the LHC physics program. Jet clustering combines calorimeter deposits or tracks in an attempt to relate observations with theoretical predictions
+Large effort in both Experiment and Theory communities to improve/extend jet tools
+Major role in these developments: Advanced ML techniques Started with jet flavour tagging, showing impressive improvement in performance</description>
+    </item>
+    <item>
+      <title>Photon Identification using CNN</title>
+      <link>https://mewixz.github.io/waqas_portfolio/publications/project-cnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mewixz.github.io/waqas_portfolio/publications/project-cnn/</guid>
+      <description>This project focuses on building a machine learning pipeline for a high-energy physics particle classifier using Apache Spark, ROOT, Parquet, TensorFlow, and Jupyter with Python notebooks.
+The data are Monte Carlo simulation produced using ZllyAthDerivation and processed using NTUP code to produce root flat ntuple which are then converted to NumPy arrays using Array code. CellsToImage is a code which converts the NumPy cells vector to NumPy images for training, An example of training images is shown below:</description>
+    </item>
+    <item>
+      <title>Real time event selection at LHC using Deep Learning</title>
+      <link>https://mewixz.github.io/waqas_portfolio/publications/project-spark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mewixz.github.io/waqas_portfolio/publications/project-spark/</guid>
+      <description>This project focuses on building a machine learning pipeline for a high-energy physics particle classifier using Apache Spark, ROOT, Parquet, TensorFlow, and Jupyter with Python notebooks.
+The training of DL models has yielded satisfactory results that align with the findings of the original research paper. The performance of the models can be evaluated through various metrics, including loss convergence, ROC curves, and AUC (Area Under the Curve) analysis.
+By achieving results consistent with the original research paper, we validate the effectiveness of our DL models and the reliability of our implementation.</description>
+    </item>
+    <item>
+      <title>Tableau Data Visualization Pakistan Election Data 2008-2022</title>
+      <link>https://mewixz.github.io/waqas_portfolio/publications/project-vis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mewixz.github.io/waqas_portfolio/publications/project-vis/</guid>
+      <description>The Election Day results are presented with data gathered from ECP website The last three Elections of National Assembly and All four provincial Assemblies are covered in the Dashboard. Link to Tableau public</description>
+    </item>
+    <item>
+      <title>Using Variational Autoenoder on particle collision data</title>
+      <link>https://mewixz.github.io/waqas_portfolio/publications/project-dl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mewixz.github.io/waqas_portfolio/publications/project-dl/</guid>
+      <description>Particles, in this case protons, are boosted to high energies inside the Large Hadron Collider (LHC) — each beam can reach 6.5 TeV giving a total of 13 TeV when colliding. Electromagnetic fields are used to accelerate the electrically charged protons in a 27 kilometers long loop. When the proton beams collide they produce a diverse set of subatomic byproducts which quickly decay, holding valuable information for some of the most fundamental questions in physics.</description>
+    </item>
+  </channel>
+</rss>
