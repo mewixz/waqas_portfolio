@@ -41,7 +41,7 @@ Major role in these developments: Advanced ML techniques Started with jet flavou
 The data are Monte Carlo simulation produced using ZllyAthDerivation and processed using NTUP code to produce root flat ntuple which are then converted to NumPy arrays using Array code. CellsToImage is a code which converts the NumPy cells vector to NumPy images for training, An example of training images is shown below:</description>
     </item>
     <item>
-      <title>Real time event selection at LHC using Deep Learning</title>
+      <title>Real time event selection at LHC with Spark and Deep Learning</title>
       <link>https://mewixz.github.io/waqas_portfolio/publications/project-spark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mewixz.github.io/waqas_portfolio/publications/project-spark/</guid>
